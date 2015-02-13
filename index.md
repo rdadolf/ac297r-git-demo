@@ -1,6 +1,6 @@
 ---
 title: AC297 Github Pages Demo
-layout: 
+layout: default
 ---
 # AC297r Github Pages Demo
 
